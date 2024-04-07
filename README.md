@@ -1,7 +1,7 @@
 # My personal assistant
 This is a simple implementation of a personal assistant that can read all the documents and answer queries on it.
 
-It is safe to use with confidential data, as this does not send your data to any thir party server, all your data is processed locally.
+It is safe to use with confidential data, as this does not send your data to any third party server, all your data is processed locally.
 
 > DISCLAIMER: It is very prone to hallucination, and context muddling. Only for demonstration purpose. No warranty or guarantee.
 
