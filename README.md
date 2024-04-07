@@ -25,7 +25,7 @@ pipenv install
 1. To load files: create a folder named `mydocs` place all files inside it
 2. Run command to index all files
 ```sh
-python fileLoader.py
+python file_loader.py
 ```
 3. Start chat interface
 
