@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+setuptools = "*"
+faiss-cpu = "*"
+ollama = "*"
+langchain = "*"
+langchain-community = "*"
+tiktoken = "*"
+pypdf = "*"
+watchdog = "*"
+langchainhub = "*"
+google = "*"
+pybind11 = "*"
+protobuf = "*"
+onnx = "1.16.0"
+unstructured = {extras = ["all-docs"], version = "*"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
